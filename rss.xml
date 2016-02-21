@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[tech]]></title>
         <description><![CDATA[tech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 02:08:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 02:15:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Technology News]]></title>
+            <description><![CDATA[<article><h1>Technology News</h1><p>Human error at the center of all our problems. If only we had Amy, or Molly.</p></article>]]></description>
+            <link>https://thegrid.ai/tech/technology-news/index.html</link>
+            <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
+            <pubDate>Sun, 21 Feb 2016 02:14:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Even Einstein Didn't Think Gravitational Waves Existed]]></title>
-            <description><![CDATA[<article><h1>Even Einstein Didn't Think Gravitational Waves Existed</h1><p>"There are no gravitational waves ... " ... "Plane gravitational waves, traveling along the positive X-axis, can therefore be found ... " ... " ... gravitational waves do not exist ... " ... "Do gravitational waves exist?" ... "It turns out that rigorous solutions exist ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ba62186cdc1c4bc8e25d91236f5ed187b39576.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Even Einstein Didn't Think Gravitational Waves Existed</h1><p>"There are no gravitational waves ... " ... "Plane gravitational waves, traveling along the positive X-axis, can therefore be found ... " ... " ... gravitational waves do not exist ... " ... "Do gravitational waves exist?" ... "It turns out that rigorous solutions exist ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f5c5083d0da8593a58b447c0c55c515a75ec5e.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/02/even-einstein-didnt-think-gravitational-waves-existed/</link>
             <guid isPermaLink="false">ad543c9f-f282-4c45-bc90-67122cfa9e9c</guid>
             <pubDate>Sun, 21 Feb 2016 02:07:59 GMT</pubDate>
