@@ -4,7 +4,7 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 02:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 02:15:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tech/technology-news/index.html</link>
             <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle]]></title>
+            <description><![CDATA[<article><h1>Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle</h1><p>Salesforce has made another acquisition to build out its technology in machine learning and big data analytics: the company has acquired PredictionIO, a startup based out of Palo Alto that had developed an open source-based machine learning server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c838446122d8a26a7e250598f2613be13bc45f.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/02/19/salesforce-acquires-predictionio-to-build-up-its-machine-learning-muscle/</link>
+            <guid isPermaLink="false">167da030-62cd-41cf-9a4f-7a946e842090</guid>
+            <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gravitational waves have been detected for the first time]]></title>
