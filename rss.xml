@@ -4,14 +4,21 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 02:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 02:39:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News]]></title>
-            <description><![CDATA[<article><h1>Technology News</h1><p>Human error at the center of all our problems. If only we had Amy, or Molly.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b8d125c-20c4-4bd3-9f35-0d2c60b5c214.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Technology News</h1><p>Human error at the center of all our problems. If only we had Amy, or Molly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d0c602a5129e9c1f533c270437e785d25de2cad.jpg"></article>]]></description>
             <link>https://thegrid.ai/tech/technology-news/index.html</link>
             <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
             <pubDate>Sun, 21 Feb 2016 02:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Svetly is cool</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ac137c2ffabd15dc1df19d42b97fb955ac460f4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tech/about/index.html</link>
+            <guid isPermaLink="false">25d2c973-fe27-45cf-b654-dfe919808d98</guid>
+            <pubDate>Sun, 21 Feb 2016 02:38:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Apple Says the Government Bungled Its Chance to Get That iPhone's Data]]></title>
