@@ -1,7 +1,7 @@
 name: tech
 favicon: null
-layout_spectrum: 0.39836
-typography_spectrum: 0.88785
+layout_spectrum: 0.33163
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,15 +15,10 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#000000'
-    - '#5b2e19'
-    - '#93827b'
-    - '#c8d8cd'
-    - '#d84d19'
+  brandColors: []
   brandStrength: 0
-  lightness: 1
-  saturation: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose:
   - name: engagement
