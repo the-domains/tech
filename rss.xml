@@ -4,7 +4,7 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 02:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 02:15:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tech/technology-news/index.html</link>
             <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan Launches Observatory To Study Black Holes And Dying Stars]]></title>
+            <description><![CDATA[<article><h1>Japan Launches Observatory To Study Black Holes And Dying Stars</h1><p>This week the Japan Aerospace Exploration Agency (JAXA) successfully launched a new space observatory designed to study black holes, dying stars and the history of galaxy clusters. The X-ray Astronomy Satellite, known as ASTRO-H, will be able to detect X-rays more than 10 times fainter than its telescope predecessor, Suzaku.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7be40787bcff1100ec48e9b79ea26c6073379db.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/02/20/japan-launches-observatory-to-study-black-holes-and-dying-stars/</link>
+            <guid isPermaLink="false">676503fd-04fd-4ace-adb7-97d6a93912c7</guid>
+            <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle]]></title>
