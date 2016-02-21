@@ -4,7 +4,7 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 02:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 02:15:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tech/technology-news/index.html</link>
             <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Says the Government Bungled Its Chance to Get That iPhone's Data]]></title>
+            <description><![CDATA[<article><h1>Apple Says the Government Bungled Its Chance to Get That iPhone's Data</h1><p>A San Bernardino county worker may be responsible for a contentious battle now playing out between Apple and the government over data on an iPhone that belonged to suspected San Bernardino shooter Syed Rizwan Farook.</p><img src="http://www.wired.com/wp-content/uploads/2016/02/apple-fbi-iphoneRTX1L8LJ-1200x630.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/02/apple-says-the-government-bungled-its-chance-to-hack-that-iphone/</link>
+            <guid isPermaLink="false">6dcc932a-5db7-454f-9f7b-854cf2c0d828</guid>
+            <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Wondrous and Wacky Year Ahead in Consumer Electronics]]></title>
@@ -29,14 +36,14 @@
         </item>
         <item>
             <title><![CDATA[Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle]]></title>
-            <description><![CDATA[<article><h1>Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle</h1><p>Salesforce has made another acquisition to build out its technology in machine learning and big data analytics: the company has acquired PredictionIO, a startup based out of Palo Alto that had developed an open source-based machine learning server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c838446122d8a26a7e250598f2613be13bc45f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Salesforce Acquires PredictionIO To Build Up Its Machine Learning Muscle</h1><p>Salesforce has made another acquisition to build out its technology in machine learning and big data analytics: the company has acquired PredictionIO, a startup based out of Palo Alto that had developed an open source-based machine learning server.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a4c1d17dd6ce2ecf19f44bdd29cc922a8bbb84.jpg"></article>]]></description>
             <link>http://techcrunch.com/2016/02/19/salesforce-acquires-predictionio-to-build-up-its-machine-learning-muscle/</link>
             <guid isPermaLink="false">167da030-62cd-41cf-9a4f-7a946e842090</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gravitational waves have been detected for the first time]]></title>
-            <description><![CDATA[<article><h1>Gravitational waves have been detected for the first time</h1><p>TWO black holes circle one another. Both are about 100km across. One contains 36 times as much mass as the sun; the other, 29. They are locked in an orbital dance, a kilometre or so apart, that is accelerating rapidly to within a whisker of the speed of light.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/624b24bb8e58c4a42873f29e487105f5547d317e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gravitational waves have been detected for the first time</h1><p>TWO black holes circle one another. Both are about 100km across. One contains 36 times as much mass as the sun; the other, 29. They are locked in an orbital dance, a kilometre or so apart, that is accelerating rapidly to within a whisker of the speed of light.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e265cb24e8adabfa9a8c29495ad6ed043800d748.jpg"></article>]]></description>
             <link>http://www.economist.com/news/science-and-technology/21692851-gravitational-waves-at-LIGO-century-after-Albert-Einstein-predicted-them</link>
             <guid isPermaLink="false">24e3f8ad-ad94-4e57-87c5-33329d4deff4</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
