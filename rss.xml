@@ -4,7 +4,7 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 04:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 16:23:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Technology News]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/tech/technology-news/index.html</link>
             <guid isPermaLink="false">3be98714-1b89-4755-a17e-dbaa223d7c35</guid>
             <pubDate>Sun, 21 Feb 2016 02:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum founder: Now we can scale the system]]></title>
+            <description><![CDATA[<article><h1>Ethereum founder: Now we can scale the system</h1><p>Founder of Ethereum Vitalik Buterin claims he has found the ultimate solution to the problem of scalability haunting cryptocurrency networks. That will be made possible with lightning networks and sharding. The reason why scalability is such an important issue is that in a regular blockchain, say, the bitcoin blockchain, each computer has to validate every transaction, said Buterin during a recent meeting with the Coinbase team.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0f8c84b5b1f264401c19e3ec60da270f01d5359.jpg"></article>]]></description>
+            <link>http://www.coinfox.info/news/5171-ethereum-founder-now-we-can-scale-the-system</link>
+            <guid isPermaLink="false">d9c606fe-9d8a-424a-ba9a-0f464807ea3c</guid>
+            <pubDate>Thu, 31 Mar 2016 16:23:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lower CO2 Emissions Could Save the US Billions]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.technologyreview.com/s/600820/nextbit-robin-review-a-smartphone-aims-to-solve-storage-woes/#/set/id/600857/</link>
             <guid isPermaLink="false">a73887bb-92e2-4c7a-a660-6852fc44ea40</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even Einstein Didn't Think Gravitational Waves Existed]]></title>
-            <description><![CDATA[<article><h1>Even Einstein Didn't Think Gravitational Waves Existed</h1><p>"There are no gravitational waves ... " ... "Plane gravitational waves, traveling along the positive X-axis, can therefore be found ... " ... " ... gravitational waves do not exist ... " ... "Do gravitational waves exist?" ... "It turns out that rigorous solutions exist ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f5c5083d0da8593a58b447c0c55c515a75ec5e.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/02/even-einstein-didnt-think-gravitational-waves-existed/</link>
-            <guid isPermaLink="false">ad543c9f-f282-4c45-bc90-67122cfa9e9c</guid>
-            <pubDate>Sun, 21 Feb 2016 02:07:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
