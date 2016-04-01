@@ -4,8 +4,15 @@
         <description><![CDATA[tech]]></description>
         <link>https://thegrid.ai/tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 16:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 21:24:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SaveDay to Launch Robo-401(k) for Small Businesses]]></title>
+            <description><![CDATA[<article><h1>SaveDay to Launch Robo-401(k) for Small Businesses</h1><p>This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers, click the "Reprints" link at the bottom of any article. A new robo-401(k) that targets small-business owners hit the market in February.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bc0108e6a01b196994efc8d6f8632bd68e775f8.jpg"></article>]]></description>
+            <link>http://www.thinkadvisor.com/2016/02/10/saveday-to-launch-robo-401k-for-small-businesses</link>
+            <guid isPermaLink="false">20b66447-85c1-4420-bc7e-fcaed504d97b</guid>
+            <pubDate>Fri, 01 Apr 2016 21:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Technology News]]></title>
             <description><![CDATA[<article><h1>Technology News</h1><p>Human error at the center of all our problems. If only we had Amy, or Molly.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d0c602a5129e9c1f533c270437e785d25de2cad.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Gravitational waves have been detected for the first time</h1><p>TWO black holes circle one another. Both are about 100km across. One contains 36 times as much mass as the sun; the other, 29. They are locked in an orbital dance, a kilometre or so apart, that is accelerating rapidly to within a whisker of the speed of light.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e265cb24e8adabfa9a8c29495ad6ed043800d748.jpg"></article>]]></description>
             <link>http://www.economist.com/news/science-and-technology/21692851-gravitational-waves-at-LIGO-century-after-Albert-Einstein-predicted-them</link>
             <guid isPermaLink="false">24e3f8ad-ad94-4e57-87c5-33329d4deff4</guid>
-            <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nextbit Robin Review: A Smartphone Aims to Solve Storage Woes]]></title>
-            <description><![CDATA[<article><h1>Nextbit Robin Review: A Smartphone Aims to Solve Storage Woes</h1><p>Nextbit is trying to make it so you never run out of storage on your smartphone. Robin, the first smartphone from startup Nextbit, is a fine phone and a good-looking handset. But just making a (generally) nice phone wasn't the aim of Robin's creators, who previously worked on Android at Google and design and user experience at HTC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e56083335d329ac965bbb0cdc5ca4a69fdc6553.jpg"></article>]]></description>
-            <link>https://www.technologyreview.com/s/600820/nextbit-robin-review-a-smartphone-aims-to-solve-storage-woes/#/set/id/600857/</link>
-            <guid isPermaLink="false">a73887bb-92e2-4c7a-a660-6852fc44ea40</guid>
             <pubDate>Sun, 21 Feb 2016 02:14:56 GMT</pubDate>
         </item>
     </channel>
