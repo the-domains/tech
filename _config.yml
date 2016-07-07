@@ -35,6 +35,7 @@ color:
     - '#0293B3'
   rhythmicContrast: 0.5
 typography_spectrum: 0.5
+style: the-composer
 layout_spectrum: 0.33163
 analytics:
   twitter: null
